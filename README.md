@@ -46,12 +46,10 @@ The catalog is built from the following awesome lists. All credit goes to their 
 |---|---|---|
 | [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | [@agarrharr](https://github.com/agarrharr) | A curated list of command line apps |
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | [@sindresorhus](https://github.com/sindresorhus) | The meta-list of awesome lists |
-| [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) | [@Slackadays](https://github.com/Slackadays) | Cut, copy, and paste anything, anywhere, all from the terminal |
-| [junegunn/fzf](https://github.com/junegunn/fzf) | [@junegunn](https://github.com/junegunn) | A command-line fuzzy finder |
-| [kohler/gifsicle](https://github.com/kohler/gifsicle) | [@kohler](https://github.com/kohler) | Create, manipulate, and optimize GIF images |
 | [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | [@unixorn](https://github.com/unixorn) | A collection of Zsh plugins, themes, and helpers |
 | [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | [@k4m4](https://github.com/k4m4) | A curated list for CLI lovers |
 | [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) | [@jondot](https://github.com/jondot) | A curated list of development environment tools and resources |
+| [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) | [@toolleeo](https://github.com/toolleeo) | A large collection of CLI apps, organized in a CSV dataset |
 
 > All listed repositories and their contents belong to their respective owners and are subject to their own licenses.
 
