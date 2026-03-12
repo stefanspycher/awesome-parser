@@ -254,7 +254,7 @@ def main() -> None:
 
     conn = sqlite3.connect(db_path)
     rows = conn.execute(
-        "SELECT url, owner, name, readme_content, pushed_at FROM repos WHERE http_status = 200 ORDER BY owner, name"
+        "SELECT url, owner, name, readme_content, pushed_at FROM repos WHERE http_status = 200 ORDER BY pushed_at DESC NULLS LAST, owner, name"
     ).fetchall()
     conn.close()
 
