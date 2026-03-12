@@ -1,0 +1,8 @@
+[project]
+name = "awesome-parser"
+version = "0.1.0"
+description = "Crawl GitHub awesome-list READMEs, extract repo links, build a searchable static HTML catalog"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx[http2]>=0.28",
+]

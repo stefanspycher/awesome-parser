@@ -1,0 +1,12 @@
+# Seed repos — one GitHub URL per line (lines starting with # are ignored)
+# These are "awesome list" repos whose READMEs will be parsed for linked repos.
+#
+# Example:
+https://github.com/agarrharr/awesome-cli-apps
+https://github.com/sindresorhus/awesome
+https://github.com/Slackadays/Clipboard
+https://github.com/junegunn/fzf
+https://github.com/kohler/gifsicle
+https://github.com/unixorn/awesome-zsh-plugins
+https://github.com/k4m4/terminals-are-sexy
+https://github.com/jondot/awesome-devenv
